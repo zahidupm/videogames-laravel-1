@@ -21,7 +21,49 @@
             <div class="game mt-8">
                 <div class="relative inline-block">
                     <a href="#">
-                        <img src="/img/ff7.jpg" alt="game cover" class="hover:opacity-75 transition ease-in-out duration-150">
+                        <img src="/img/avengers.jpg" alt="game cover" class="hover:opacity-75 transition ease-in-out duration-150">
+                        </a>
+                    <div class="absolute bottom-0 right-0 w-16 h-16 bg-gray-400 rounded-full" style="right:-20px; bottom: -20px">
+                        <div class="font semibold text-sm flex items-center justify-center h-full">
+                            80%
+                        </div>
+                    </div>
+                </div>
+                <a href="" class="block text-block font-semibold text-base mt-8 hover:text-gray-400">Avengers 7 Remake</a>
+                <div class="text-gray-400 mt-1">Playstation 4</div>
+            </div>
+            <div class="game mt-8">
+                <div class="relative inline-block">
+                    <a href="#">
+                        <img src="/img/animalcrossing.jpg" alt="game cover" class="hover:opacity-75 transition ease-in-out duration-150">
+                        </a>
+                    <div class="absolute bottom-0 right-0 w-16 h-16 bg-gray-400 rounded-full" style="right:-20px; bottom: -20px">
+                        <div class="font semibold text-sm flex items-center justify-center h-full">
+                            80%
+                        </div>
+                    </div>
+                </div>
+                <a href="" class="block text-block font-semibold text-base mt-8 hover:text-gray-400">Animal Crossing 7 Remake</a>
+                <div class="text-gray-400 mt-1">Playstation 4</div>
+            </div>
+            <div class="game mt-8">
+                <div class="relative inline-block">
+                    <a href="#">
+                        <img src="/img/cyberpunk.jpg" alt="game cover" class="hover:opacity-75 transition ease-in-out duration-150">
+                        </a>
+                    <div class="absolute bottom-0 right-0 w-16 h-16 bg-gray-400 rounded-full" style="right:-20px; bottom: -20px">
+                        <div class="font semibold text-sm flex items-center justify-center h-full">
+                            80%
+                        </div>
+                    </div>
+                </div>
+                <a href="" class="block text-block font-semibold text-base mt-8 hover:text-gray-400">Cyber Punk 7 Remake</a>
+                <div class="text-gray-400 mt-1">Playstation 4</div>
+            </div>
+            <div class="game mt-8">
+                <div class="relative inline-block">
+                    <a href="#">
+                        <img src="/img/doom.jpg" alt="game cover" class="hover:opacity-75 transition ease-in-out duration-150">
                         </a>
                     <div class="absolute bottom-0 right-0 w-16 h-16 bg-gray-400 rounded-full" style="right:-20px; bottom: -20px">
                         <div class="font semibold text-sm flex items-center justify-center h-full">
@@ -35,49 +77,7 @@
             <div class="game mt-8">
                 <div class="relative inline-block">
                     <a href="#">
-                        <img src="/img/ff7.jpg" alt="game cover" class="hover:opacity-75 transition ease-in-out duration-150">
-                        </a>
-                    <div class="absolute bottom-0 right-0 w-16 h-16 bg-gray-400 rounded-full" style="right:-20px; bottom: -20px">
-                        <div class="font semibold text-sm flex items-center justify-center h-full">
-                            80%
-                        </div>
-                    </div>
-                </div>
-                <a href="" class="block text-block font-semibold text-base mt-8 hover:text-gray-400">Final Fantasy 7 Remake</a>
-                <div class="text-gray-400 mt-1">Playstation 4</div>
-            </div>
-            <div class="game mt-8">
-                <div class="relative inline-block">
-                    <a href="#">
-                        <img src="/img/ff7.jpg" alt="game cover" class="hover:opacity-75 transition ease-in-out duration-150">
-                        </a>
-                    <div class="absolute bottom-0 right-0 w-16 h-16 bg-gray-400 rounded-full" style="right:-20px; bottom: -20px">
-                        <div class="font semibold text-sm flex items-center justify-center h-full">
-                            80%
-                        </div>
-                    </div>
-                </div>
-                <a href="" class="block text-block font-semibold text-base mt-8 hover:text-gray-400">Final Fantasy 7 Remake</a>
-                <div class="text-gray-400 mt-1">Playstation 4</div>
-            </div>
-            <div class="game mt-8">
-                <div class="relative inline-block">
-                    <a href="#">
-                        <img src="/img/ff7.jpg" alt="game cover" class="hover:opacity-75 transition ease-in-out duration-150">
-                        </a>
-                    <div class="absolute bottom-0 right-0 w-16 h-16 bg-gray-400 rounded-full" style="right:-20px; bottom: -20px">
-                        <div class="font semibold text-sm flex items-center justify-center h-full">
-                            80%
-                        </div>
-                    </div>
-                </div>
-                <a href="" class="block text-block font-semibold text-base mt-8 hover:text-gray-400">Final Fantasy 7 Remake</a>
-                <div class="text-gray-400 mt-1">Playstation 4</div>
-            </div>
-            <div class="game mt-8">
-                <div class="relative inline-block">
-                    <a href="#">
-                        <img src="/img/ff7.jpg" alt="game cover" class="hover:opacity-75 transition ease-in-out duration-150">
+                        <img src="/img/ghost.jpg" alt="game cover" class="hover:opacity-75 transition ease-in-out duration-150">
                         </a>
                     <div class="absolute bottom-0 right-0 w-16 h-16 bg-gray-400 rounded-full" style="right:-20px; bottom: -20px">
                         <div class="font semibold text-sm flex items-center justify-center h-full">
