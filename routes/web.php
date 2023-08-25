@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\GamesController;
 
 /*
 |--------------------------------------------------------------------------
@@ -14,13 +15,15 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('frontend.index');
-});
+//Route::get('/', function () {
+//    return view('frontend.index');
+//});
+////
+//Route::get('/show', function () {
+//    return view('frontend.show');
+//});
 
-Route::get('/show', function () {
-    return view('frontend.show');
-});
+Route::get('/', [GamesController::class, 'index'])->name('games.index');
 
 Route::get('/dashboard', function () {
     return view('dashboard');
