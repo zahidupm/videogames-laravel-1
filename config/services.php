@@ -30,5 +30,9 @@ return [
         'secret' => env('AWS_SECRET_ACCESS_KEY'),
         'region' => env('AWS_DEFAULT_REGION', 'us-east-1'),
     ],
+    'igdb' => [
+        'api_key' => env('IGDB_API_KEY'),
+        'api_secret' => env('IGDB_API_SECRET'),
+    ]
 
 ];
